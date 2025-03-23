@@ -1,0 +1,198 @@
+alarm> Start_Alarm(2345):  50  Will meet you at Grandma’s house at 6 pm
+Start_Alarm(2345) Request Inserted Into Alarm List: 1741650856 50 Will meet you at Grandma's house at 6 pm
+alarm> New Display Alarm Thread created at 1741650857
+Alarm (2345) Assigned to Display Thread(2) at 1741650857: 1741650906 Will meet you at Grandma's house at 6 pm
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650862: 1741650906 Will meet you at Grandma's house at 6 pm
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650867: 1741650906 Will meet you at Grandma's house at 6 pm
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650872: 1741650906 Will meet you at Grandma's house at 6 pm
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650877: 1741650906 Will meet you at Grandma's house at 6 pm
+Change_Alarm(2345):  80  Will meet you at Grandma’s house later at 8 pm 
+Change_Alarm(2345) Request Inserted Into Alarm List: 1741650881 80 Will meet you at Grandma's house later at 8 pm 
+alarm> Alarm(2345) Changed at 1741650881: 1741650961 Will meet you at Grandma's house later at 8 pm 
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650882: 1741650906 Will meet you at Grandma's house at 6 pm
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650887: 1741650906 Will meet you at Grandma's house at 6 pm
+Alarm (2345) Printed by Alarm Display Thread 6 at 1741650892: 1741650906 Will meet you at Grandma's house at 6 pm
+Suspend_Alarm(2345) 
+Suspend_Alarm(2345) Request Inserted Into Alarm List: 1741650895 N/A
+alarm> Alarm(2345) Suspended at 1741650896: 1741650895 N/A
+View_Alarms 
+View_Alarms Request Inserted Into Alarm List: 1741650911
+alarm> View_Alarms Request Inserted Into Alarm List: 1741650911
+View Alarms at 1741650912:
+1. Alarm(2345) Status<SUSPENDED> Type<Start_Alarm>  1741650856 50 Will meet you at Grandma's house at 6 pm
+Reactivate_Alarm(2345)
+Reactivate_Alarm(2345) Request Inserted Into Alarm List: 1741650925 N/A
+alarm> Alarm(2345) Reactivated at 1741650925: 1741650925 N/A
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741650938
+alarm> View_Alarms Request Inserted Into Alarm List: 1741650938
+View Alarms at 1741650938:
+1. Alarm(2345) Status<ACTIVE> Type<Start_Alarm>  1741650856 50 Will meet you at Grandma's house at 6 pm
+Cancel_Alarm(2345)
+Cancel_Alarm(2345) Request Inserted Into Alarm List: 1741650955 N/A
+alarm> Alarm(2345) Cancelled at 1741650956: 1741650955 N/A
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741650964
+alarm> View_Alarms Request Inserted Into Alarm List: 1741650964
+View Alarms at 1741650965:
+Start_Alarm(1001): 30 Meeting at 5 PM
+Start_Alarm(1001) Request Inserted Into Alarm List: 1741651007 30 Meeting at 5 PM
+alarm> New Display Alarm Thread created at 1741651008
+Alarm (1001) Assigned to Display Thread(2) at 1741651008: 1741651037 Meeting at 5 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651013: 1741651037 Meeting at 5 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651018: 1741651037 Meeting at 5 PM
+Start_Alarm(2345):  50  Will meet you at Grandma’s house at 6 pm
+Start_Alarm(2345) Request Inserted Into Alarm List: 1741651020 50 Will meet you at Grandma's house at 6 pm
+alarm> New Display Alarm Thread created at 1741651020
+Alarm (2345) Assigned to Display Thread(2) at 1741651020: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651023: 1741651037 Meeting at 5 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651025: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651028: 1741651037 Meeting at 5 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651030: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651033: 1741651037 Meeting at 5 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651035: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651038: 1741651037 Meeting at 5 PM
+Start_Alarm(1011): 30 Meeting at 6 PM
+Start_Alarm(1011) Request Inserted Into Alarm List: 1741651039 30 Meeting at 6 PM
+alarm> New Display Alarm Thread created at 1741651039
+Alarm (1011) Assigned to Display Thread(2) at 1741651039: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651040: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651043: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651044: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651045: 1741651070 Will meet you at Grandma's house at 6 pm
+Start_Alarm(1011): 30 Meeting at 6 PM
+Start_Alarm(1011) Request Inserted Into Alarm List: 1741651047 30 Meeting at 6 PM
+alarm> New Display Alarm Thread created at 1741651047
+Alarm (1011) Assigned to Display Thread(2) at 1741651047: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651048: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651049: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651050: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651052: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651053: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651054: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651055: 1741651070 Will meet you at Grandma's house at 6 pm
+View_Alarm (1011) Printed by Alarm Display Thread 10 at 1741651057: 1741651077 Meeting at 6 PM
+AAlarm (1001) Printed by Alarm Display Thread 7 at 1741651058: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651059: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651060: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651062: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651063: 1741651037 Meeting at 5 PM
+View_AlarmsAlarm (1011) Printed by Alarm Display Thread 9 at 1741651064: 1741651069 Meeting at 6 PM
+
+Bad command
+alarm> Alarm (2345) Printed by Alarm Display Thread 8 at 1741651065: 1741651070 Will meet you at Grandma's house at 6 pm
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741651066
+alarm> View_Alarms Request Inserted Into Alarm List: 1741651066
+View Alarms at 1741651067:
+1. Alarm(1001) Status<ACTIVE> Type<Start_Alarm>  1741651007 30 Meeting at 5 PM
+2. Alarm(2345) Status<ACTIVE> Type<Start_Alarm>  1741651020 50 Will meet you at Grandma's house at 6 pm
+3. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651039 30 Meeting at 6 PM
+4. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651047 30 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651067: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651068: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651069: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651070: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651072: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651073: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651074: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651075: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651077: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651078: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651079: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651080: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651082: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651083: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651084: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651085: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651087: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651088: 1741651037 Meeting at 5 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651089: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651090: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651092: 1741651077 Meeting at 6 PM
+Alarm (1001) Printed by Alarm Display Thread 7 at 1741651093: 1741651037 Meeting at 5 PM
+Cancel_Alarm(1001)
+Cancel_Alarm(1001) Request Inserted Into Alarm List: 1741651093 N/A
+alarm> Alarm(1001) Cancelled at 1741651094: 1741651093 N/A
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651094: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651095: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651097: 1741651077 Meeting at 6 PM
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741651099
+alarm> View_Alarms Request Inserted Into Alarm List: 1741651099
+View Alarms at 1741651099:
+1. Alarm(2345) Status<ACTIVE> Type<Start_Alarm>  1741651020 50 Will meet you at Grandma's house at 6 pm
+2. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651039 30 Meeting at 6 PM
+3. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651047 30 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651099: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651100: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651102: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651104: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651105: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651107: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651109: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651110: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651112: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651114: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651115: 1741651070 Will meet you at Grandma's house at 6 pm
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651117: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651119: 1741651069 Meeting at 6 PM
+Alarm (2345) Printed by Alarm Display Thread 8 at 1741651120: 1741651070 Will meet you at Grandma's house at 6 pm
+Suspend_Alarm(2345) 
+Suspend_Alarm(2345) Request Inserted Into Alarm List: 1741651121 N/A
+alarm> Alarm(2345) Suspended at 1741651122: 1741651121 N/A
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651123: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651124: 1741651069 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651128: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 9 at 1741651129: 1741651069 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651133: 1741651077 Meeting at 6 PM
+Suspend_Alarm(1011)
+Suspend_Alarm(1011) Request Inserted Into Alarm List: 1741651133 N/A
+alarm> Alarm(1011) Suspended at 1741651133: 1741651133 N/A
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741651137
+alarm> View_Alarms Request Inserted Into Alarm List: 1741651137
+View Alarms at 1741651137:
+1. Alarm(2345) Status<SUSPENDED> Type<Start_Alarm>  1741651020 50 Will meet you at Grandma's house at 6 pm
+2. Alarm(1011) Status<SUSPENDED> Type<Start_Alarm>  1741651039 30 Meeting at 6 PM
+3. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651047 30 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651138: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651143: 1741651077 Meeting at 6 PM
+2. Alarm(1011) Status<SUSPENDED> Type<Start_Alarm>  1741651039 30 Meeting at 6 PM
+3. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651047 30 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651138: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651143: 1741651077 Meeting at 6 PM
+3. Alarm(1011) Status<ACTIVE> Type<Start_Alarm>  1741651047 30 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651138: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651143: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651138: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651143: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651148: 1741651077 Meeting at 6 PM
+Suspend_Alarm(1011)
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651143: 1741651077 Meeting at 6 PM
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651148: 1741651077 Meeting at 6 PM
+Suspend_Alarm(1011)
+Suspend_Alarm(1011) Request Inserted Into Alarm List: 1741651150 N/A
+alarm> Alarm(1011) Suspended at 1741651150: 1741651150 N/A
+Alarm (1011) Printed by Alarm Display Thread 10 at 1741651148: 1741651077 Meeting at 6 PM
+Suspend_Alarm(1011)
+Suspend_Alarm(1011) Request Inserted Into Alarm List: 1741651150 N/A
+alarm> Alarm(1011) Suspended at 1741651150: 1741651150 N/A
+Suspend_Alarm(1011)
+Suspend_Alarm(1011) Request Inserted Into Alarm List: 1741651150 N/A
+alarm> Alarm(1011) Suspended at 1741651150: 1741651150 N/A
+Suspend_Alarm(1011) Request Inserted Into Alarm List: 1741651150 N/A
+alarm> Alarm(1011) Suspended at 1741651150: 1741651150 N/A
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741651154
+alarm> View_Alarms Request Inserted Into Alarm List: 1741651154
+View_Alarms
+View_Alarms Request Inserted Into Alarm List: 1741651154
+alarm> View_Alarms Request Inserted Into Alarm List: 1741651154
+View_Alarms Request Inserted Into Alarm List: 1741651154
+alarm> View_Alarms Request Inserted Into Alarm List: 1741651154
+View Alarms at 1741651155:
+1. Alarm(2345) Status<SUSPENDED> Type<Start_Alarm>  1741651020 50 Will meet you at Grandma's house at 6 pm
+2. Alarm(1011) Status<SUSPENDED> Type<Start_Alarm>  1741651039 30 Meeting at 6 PM
+3. Alarm(1011) Status<SUSPENDED> Type<Start_Alarm>  1741651047 30 Meeting at 6 PM
+Exiting Program.
